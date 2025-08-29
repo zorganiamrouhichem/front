@@ -1,3 +1,4 @@
+"use client";
 import Hero from "../components/Hero";
 import ImageGallery from "../components/ImageGallery";
 import Navbar from "../components/Navbar";
