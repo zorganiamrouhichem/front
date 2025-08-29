@@ -2,7 +2,7 @@ import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
   images: {
-    domains: ['localhost', 'back-qkps.onrender.com/'], // Replace with your actual image host
+     domains: ['res.cloudinary.com'],// Replace with your actual image host
   },
 };
 
